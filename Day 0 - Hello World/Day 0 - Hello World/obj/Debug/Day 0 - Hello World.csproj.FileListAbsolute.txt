@@ -1,0 +1,7 @@
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 0 - Hello World\Day 0 - Hello World\bin\Debug\Day 0 - Hello World.exe.config
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 0 - Hello World\Day 0 - Hello World\bin\Debug\Day 0 - Hello World.exe
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 0 - Hello World\Day 0 - Hello World\bin\Debug\Day 0 - Hello World.pdb
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 0 - Hello World\Day 0 - Hello World\obj\Debug\Day 0 - Hello World.csproj.AssemblyReference.cache
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 0 - Hello World\Day 0 - Hello World\obj\Debug\Day 0 - Hello World.csproj.CoreCompileInputs.cache
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 0 - Hello World\Day 0 - Hello World\obj\Debug\Day 0 - Hello World.exe
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 0 - Hello World\Day 0 - Hello World\obj\Debug\Day 0 - Hello World.pdb
