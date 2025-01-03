@@ -11,8 +11,8 @@ namespace Day_1___Data_Types
         static void Main(string[] args)
         {
             int i = 4;
-            double d = 4.0d;
-            string s = "HackerRank";
+            double d = 4.0;
+            string s = "HackerRank ";
 
             // Declare second integer, double, and String variables.
             int i2;
@@ -32,7 +32,7 @@ namespace Day_1___Data_Types
 
             // Concatenate and print the String variables on a new line
             // The 's' variable above should be printed first.
-            Console.WriteLine(s + " " + s2);
+            Console.WriteLine(s + s2);
 
         }
     }

@@ -1,0 +1,7 @@
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 1 - Data Types\Day 1 - Data Types\bin\Debug\Day 1 - Data Types.exe.config
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 1 - Data Types\Day 1 - Data Types\bin\Debug\Day 1 - Data Types.exe
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 1 - Data Types\Day 1 - Data Types\bin\Debug\Day 1 - Data Types.pdb
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 1 - Data Types\Day 1 - Data Types\obj\Debug\Day 1 - Data Types.csproj.AssemblyReference.cache
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 1 - Data Types\Day 1 - Data Types\obj\Debug\Day 1 - Data Types.csproj.CoreCompileInputs.cache
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 1 - Data Types\Day 1 - Data Types\obj\Debug\Day 1 - Data Types.exe
+C:\Users\giorg\OneDrive\Documentos\#30DaysOfCode-C#\Day 1 - Data Types\Day 1 - Data Types\obj\Debug\Day 1 - Data Types.pdb
